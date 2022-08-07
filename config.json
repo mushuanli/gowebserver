@@ -1,0 +1,11 @@
+{
+	"auth":{
+		"rain":"888888",
+		"rav":"9999"
+	},
+	"uploadPath": "/n/tmp/4/",
+	"downloadServer": [
+		"/n/tmp/4/"
+	],
+	"amipath": "/opt/cache/sgv/build/ami/"
+}
